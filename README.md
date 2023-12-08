@@ -1,6 +1,6 @@
 # <p align="center"> <b> Curso: Clusterização de dados - Sementação de clientes</b> 
 
-####  📓 <a href="link">Notebook</a> desenvolvido durante o curso
+####  📓 <a href="SegmentacaoClientes.ipynb">Notebook</a> desenvolvido durante o curso
 ####  ✏️ Curso da plataforma <a href="https://cursos.alura.com.br/course/clusterizacao-dados-segmentacao-clientes">Alura</a> 
 ####  ⏰ Duração: 8h 
 ####  📜 Conteúdo:
